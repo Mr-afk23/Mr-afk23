@@ -8,6 +8,10 @@
     <br>🔹 Actualmente estoy aprendiendo Java , HTML , CSS y Sql
     <br>🔹 Soy usuario de parrot 
     <br>🔹 Me interesa el desarrollo de aplicaciones web y desarrollo de vidiojuegos.
+     <br>🔹 Main Reyna en valorant 
+     <br>🔹 Soy GymRat 
+     <br>🔹 Tripulacion de los mugiwaras
+     <br>🔹 Soy Cazador de maldiciones
     </samp>
    <br>
   <br>
