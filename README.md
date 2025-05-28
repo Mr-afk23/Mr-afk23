@@ -1,7 +1,7 @@
 ### Hello World. I'm Diego Gonzalez  👋.
 ---
 <p>
-  <img src="./d52j8nd-9a0b69c9-977a-4873-820b-e405761d23c3.gif" align="right" width="15%"/>
+  <img src="./d52j8nd-9a0b69c9-977a-4873-820b-e405761d23c3.gif" align="right" width="35%"/>
   <samp>
     <br>Soy un estudiante de programacion de 4to computacion.
     <br>
