@@ -1,16 +1,22 @@
-## Hi there 👋
+### Hello World. I'm Diego Gonzalez  👋.
+---
+<p>
+  <img src="./zoro-fight.gif" align="right" width="15%"/>
+  <samp>
+    <br>Soy un estudiante de programacion de 4to computacion.
+    <br>
+    <br>🔹 Actualmente estoy aprendiendo Java , HTML , CSS y Sql
+    <br>🔹 Soy usuario de parrot 
+    <br>🔹 Me interesa el desarrollo de aplicaciones web y desarrollo de vidiojuegos.
+    </samp>
+   <br>
+  <br>
+  <p align="center">
+    <samp>
+      #html, #css, #javascript, #git, #react, #python, #Java SE, #SQL, #Bash, #linux
+     </samp>
+    <br>
+  </p>
+  
+</p>
 
-<!--
-**Mr-afk23/Mr-afk23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
