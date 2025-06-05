@@ -1,5 +1,6 @@
 ### Hello World. I'm Diego Gonzalez  👋.
 ---
+  <img src="zoro-fight.gif" align="right" width="35%"/>
 <p>
   <samp>
     <br>Soy un estudiante de programacion de 4to computacion.
