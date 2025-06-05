@@ -11,8 +11,8 @@
      <br>🔹 Soy GymRat 
      <br>🔹 Tripulacion de los mugiwaras
      <br>🔹 Soy Cazador de maldiciones
-    </samp>
     <img src="./d52j8nd-9a0b69c9-977a-4873-820b-e405761d23c3.gif" align="right" width="35%"/>
+    </samp>
    <br>
   <br>
   <p align="center">
