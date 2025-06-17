@@ -1,20 +1,22 @@
-### 👋 Hello World, soy Diego Gonzalez  
+### 👋 Hello World. I'm Diego Gonzalez  
 ---
-<img src="zoro-fight.gif" align="right" width="300"/>
+
+<img src="zoro-fight.gif" align="right" width="280"/>
 
 ```samp
-💻 Estudiante apasionado de programación en 4to Bachillerato en Computación  
-🚀 Apuntando al desarrollo de aplicaciones web y videojuegos  
-🧠 Siempre aprendiendo nuevas tecnologías  
+💻 Estudiante de programación — 4to Computación  
+🚀 Apasionado por el desarrollo web y de videojuegos  
+🧠 Siempre aprendiendo algo nuevo  
 
-📚 Actualmente estudiando:  
+📚 Tecnologías que estoy aprendiendo:  
 • Java  
 • HTML + CSS  
 • SQL  
 • Git y Bash  
 
-🎮 Datos curiosos sobre mí:  
+🎮 Curiosidades sobre mí:  
 • Main Reyna en Valorant 🕹️  
 • Soy GymRat 💪  
-• Uso Parrot OS 🐦 (Linux power!)  
-• Cazador de Maldiciones y tripulación de los Mugiwara ☠️  
+• Usuario de Parrot OS 🐦  
+• Tripulante de los Mugiwaras ☠️  
+• Cazador de Maldiciones 🔮  
